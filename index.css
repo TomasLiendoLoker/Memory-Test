@@ -1,0 +1,64 @@
+.cuadrado {
+  /*width: 25vh;
+    max-width: 100px;
+    height: 25vh;
+    max-height: 100px;
+    */
+  opacity: 0;
+  border: 0.5px solid #555;
+}
+.columna{
+    border: 1px solid;
+}
+
+/*Es lo que me da el responsive
+ocupa el 100% de la pantalla*/
+.fila-juego {
+  height: 25vh;
+}
+
+.aqua {
+  background-color: aqua;
+}
+
+.black {
+  background-color: black;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.blueviolet {
+  background-color: blueviolet;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.coral {
+  background-color: coral;
+}
+
+.darkkhaki {
+  background-color: darkkhaki;
+}
+
+.fuchsia {
+  background-color: fuchsia;
+}
+
+.completo {
+  background-color: gray;
+}
+
+.oculto {
+  display: none;
+}
+
+.centrado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
